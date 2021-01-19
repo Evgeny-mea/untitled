@@ -13,6 +13,7 @@ public class Main {
 //    private static <E> List<E> convertToList(E[] array) {
 //        return Arrays.asList(array);
 //    }
+
     static ArrayList<Integer> intToArray (int[] input) {
         ArrayList<Integer> result = new ArrayList<>();
         for (int i = 0; i < input.length; i++)
